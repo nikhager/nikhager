@@ -4,7 +4,7 @@ I'm moving into software engineering from finance: Big 4 tax and audit at KPMG, 
 
 **Languages:** Python, JavaScript, C++, R
 
-**Education:** Dual BS in Finance and Accounting, Chapman University · Certificate in Applied Statistical Analysis (data science and machine learning) · Minor in Music Technology
+**Education:** Dual BS in Finance and Accounting, Chapman University · Certificate in Applied Statistical Analysis (data science and machine learning) · Minor in Music Technology (music production and audio engineering)
 
 **Coursework:** Discrete math, natural language processing, deep learning, econometrics (statistical modeling in R for finance and economics), portfolio management (managed $2m portfolio for the school)
 
