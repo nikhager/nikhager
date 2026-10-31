@@ -6,7 +6,7 @@ I'm moving into software engineering from finance: Big 4 tax and audit at KPMG, 
 
 **Education:** Dual BS in Finance and Accounting, Chapman University · Certificate in Applied Statistical Analysis (data science and machine learning) · Minor in Music Technology (music production and audio engineering)
 
-**Coursework:** Discrete math, natural language processing, deep learning, econometrics (statistical modeling in R for finance and economics), portfolio management (managed $2m portfolio for the school)
+**Coursework:** Deep learning, natural language processing, econometrics (statistical modeling in R for finance and economics), portfolio management (managed $2m portfolio for the school), discrete math
 
 ### Projects
 - [KBSR Ball Traits](https://nikhager.github.io/kbsr-ball-traits/): a searchable trait reference for a mobile game with no public wiki, logged by hand as ball boxes rotate each month.
