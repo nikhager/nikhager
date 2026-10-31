@@ -1,4 +1,4 @@
-# Hi, I'm Nik
+# Hi, I'm Nik 👋
 
 I'm moving into software engineering from finance: Big 4 audit at KPMG, then real estate private equity and acquisitions.
 
