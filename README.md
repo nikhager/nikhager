@@ -1,6 +1,6 @@
 # Hi, I'm Nik 👋
 
-I'm moving into software engineering from finance: Big 4 tax and audit at KPMG, then real estate private equity and acquisitions.
+I'm moving into software engineering from finance: real estate private equity acquisitions, formerly KPMG tax and audit.
 
 **Languages:** Python, JavaScript, C++, R
 
